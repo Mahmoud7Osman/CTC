@@ -14,4 +14,4 @@
 
 <p>This command will compile <code>main2.c</code> and <code>tasks.c</code> into an executable file named <code>main2</code>.</p>
 
-<p><em>Note: This README assumes that you have <a href="https://gcc.gnu.org/">GCC</a> installed on your system.</em></p>
+<p><em>Note: This Example assumes that you have <a href="https://gcc.gnu.org/">GCC</a> installed on your system.</em></p>
